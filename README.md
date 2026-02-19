@@ -7,6 +7,7 @@
 
 ## 📌 Project Overview
 This project is a complete end-to-end Data Analytics solution designed to analyze e-commerce sales data. The goal of this project is to build a robust data pipeline that extracts raw data, transforms it into a structured database, and visualizes key business metrics to help stakeholders make data-driven decisions.
+> **⚠️ Dataset Note:** Due to GitHub's file size limits, only a sample dataset of 100 rows is uploaded in this repository to demonstrate the data structure and ETL pipeline functionality. The complete dataset was sourced from Kaggle and processed locally.
 
 ## 🏗️ Data Architecture & Workflow
 The project follows a standard Data Engineering & Analytics pipeline:
