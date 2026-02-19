@@ -32,9 +32,12 @@ The Power BI report is divided into three actionable pages:
 ### 📷 Dashboard Screenshots
 *(Add your dashboard screenshots here by dragging and dropping the images into the GitHub editor)*
 
-![Dashboard Page 1 - Overview](Insert_Image_Link_Here)
-![Dashboard Page 1 - Overview](Insert_Image_Link_Here)
-![Dashboard Page 3 - RFM Analysis](Insert_Image_Link_Here)
+![Dashboard Page 1 - Overview](Insert_Image_Link<img width="917" height="494" alt="page1" src="https://github.com/user-attachments/assets/da22fdec-86c4-4667-8d88-3221c36d5704" />
+_Here)
+![Dashboard Page 1 - Overview](Insert_Im<img width="926" height="493" alt="page2" src="https://github.com/user-attachments/assets/e58d8d44-0c78-45c7-a773-71859aab59e4" />
+age_Link_Here)
+![Dashboard Page 3 - RFM Analysis](Insert_Image<img width="922" height="519" alt="page3" src="https://github.com/user-attachments/assets/3a91634a-aac4-47c0-bb3e-572b603903c2" />
+_Link_Here)
 
 ---
 
